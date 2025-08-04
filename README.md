@@ -79,7 +79,7 @@ Getting started with the calculator is simple. Just follow these steps:
 
 You can view and use the live version of the calculator here:
 
-[**[Your Live Demo Link Here]**](https://your-live-demo-url.com)  _(<- Replace with your actual URL)_
+[**[Your Live Demo Link Here]**](https://gpa-calculator-fast-nuces.netlify.app/)
 
 <br>
 
