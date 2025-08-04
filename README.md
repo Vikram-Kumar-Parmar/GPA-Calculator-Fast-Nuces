@@ -7,9 +7,9 @@ This project was built from the ground up with a focus on a sleek user interface
 <br>
 
 ## ✨ Preview
-
-![GPA Calculator Preview]([https://i.imgur.com/g88Y67X.png](https://github.com/Vikram-Kumar-Parmar/GPA-Calculator-Fast-Nuces/blob/main/Screenshot%20from%202025-08-05%2004-06-03.png?raw=true)
-![GPA Calculator Preview](https://github.com/Vikram-Kumar-Parmar/GPA-Calculator-Fast-Nuces/blob/main/Screenshot%20from%202025-08-05%2004-06-19.png?raw=true)
+![GPA Calculator Preview](https://github.com/Vikram-Kumar-Parmar/GPA-Calculator-Fast-Nuces/blob/main/Screenshot%20from%202025-08-05%2004-06-03.png?raw=true)
+![GPA Calculator Analysis](https://github.com/Vikram-Kumar-Parmar/GPA-Calculator-Fast-Nuces/blob/main/Screenshot%20from%202025-08-05%2004-06-19.png?raw=true)
+*A snapshot of the main SGPA Calculator and Analysis interfaces.*
 *A snapshot of the main SGPA Calculator interface.*
 
 <br>
