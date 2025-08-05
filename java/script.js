@@ -179,11 +179,11 @@
             }
         }
         function showWarningPopup(type, gpa) {
-            document.getElementById('warningMessage').textContent = `Jani your ${type} is ${gpa.toFixed(2)}, which is below 2.00. kuch kar warna uni wale jeene nai deenge sachi ! 🥲`;
+            document.getElementById('warningMessage').textContent = `Jani your ${type} is ${gpa.toFixed(2)}, which is below 2.00.\n kuch kar warna uni wale jeene nai deenge sachi ! 🥲`;
             document.getElementById('warningPopup').classList.add('show');
         }
         function showSuccessPopup(type, gpa) {
-            document.getElementById('successMessage').textContent = `Excellent! theete your ${type} is ${gpa.toFixed(2)}. tum to Dean's List man ho, maze hi mazeee !! 🥳😂`;
+            document.getElementById('successMessage').textContent = `Excellent! theete your ${type} is ${gpa.toFixed(2)}.\n tum to Dean's List man ho, maze hi mazeee !! 🥳😂`;
             document.getElementById('successPopup').classList.add('show');
         }
         function closePopup() { document.getElementById('warningPopup').classList.remove('show'); }
